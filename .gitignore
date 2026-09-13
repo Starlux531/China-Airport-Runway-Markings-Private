@@ -1,0 +1,14 @@
+**/bin/
+**/obj/
+artifacts/
+发布/
+*.dat
+*.pdb
+*.exe
+*.zip
+*.tmp
+.vs/
+.idea/
+.codex/
+.agents/
+.ChinaRunwayMarkingsBackups/
